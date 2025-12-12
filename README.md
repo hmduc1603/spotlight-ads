@@ -1,6 +1,6 @@
 # SpotlightAds
 
-![SpotlightAds](assets/ic_app.png)
+<img src="assets/ic_app.png" alt="SpotlightAds" width="100" height="100" />
 
 **SpotlightAds** is a powerful desktop application designed to automate Apple Search Ads management for indie developers and small app teams.
 
